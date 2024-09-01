@@ -20,3 +20,27 @@ Understand the Spacex DataSet
 Load the dataset into the corresponding table in a Db2 database 
 Execute SQL queries to answer assignment questions
 
+Exploring and Preparing Data
+Perform exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib:
+Exploratory Data Analysis
+Preparing Data Feature Engineering
+
+Launch Sites Locations Analysis with Folium
+Mark all launch sites on a map
+Mark the success/failed launches for each site on the map
+Calculate the distances between a launch site to its proximities
+Find some geographical patterns about launch sites.
+
+Build a Dashboard Application with Plotly Dash
+Add a Launch Site Drop-down Input Component
+Add a callback function to render success-pie-chart based on selected site dropdown
+Add a Range Slider to Select Payload
+Add a callback function to render the success-payload-scatter-chart scatter plot
+
+Machine Learning Prediction
+Perform exploratory Data Analysis and determine Training Labels
+create a column for the class
+Standardize the data
+Split into training data and test data
+Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
+Find the method performs best using test data
